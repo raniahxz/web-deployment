@@ -1,0 +1,24 @@
+h1#n{
+    color: coral;
+    background-color: darkgrey;
+}
+h1#f1{
+    color: darkorchid;
+    background-color: darkseagreen;
+}
+div>h2{
+
+color: darkslategrey;
+background-color: maroon;
+}
+
+input[type = "text"]{
+ border-color: yellow;
+
+}
+
+
+input[type = "password"]{
+border-color: yellow;
+
+}
